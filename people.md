@@ -5,7 +5,7 @@ title: People
 
 
 
-## Aaron Finney, <span style="font-size:0.7em; font-weight:normal; color:#666;">Principal Investigator</span>
+## Aaron Finney <span style="font-size:0.7em; font-weight:normal; color:#666;">Principal Investigator</span>
 
 <div style="display:flex; gap:1.5em; align-items:flex-start;">
   <div style="flex:1;">
@@ -16,14 +16,21 @@ title: People
 </div>
 
 
-## Xavier Sottrel, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
+## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
 Short description of project and bio
 
-## Shaurya Aneja, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
+## Shaurya Aneja <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
 Short description of project and bio
 
-## Varnit Jain, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2025–)</span>
+## Varnit Jain <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2025–)</span>
 Short description of project and bio
 
+## Project Students
+Ileen Sami (2026-2027)
 
+# Alumni
+Joud Dhafer BEng (2025-2026) <br>
+Abdulrahman Al-Sahli BEng (2025-2026) <br>
+Alireza Azizian MSc (2024) <br>
+Abby Balasubramaniyan MSc (2024) <br>
 
