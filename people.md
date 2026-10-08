@@ -26,6 +26,4 @@ Short description of project and bio
 Short description of project and bio
 
 
-## Join us
 
-We welcome enquiries about PhD projects and fellowship applications. Please [get in touch](contact.md).
