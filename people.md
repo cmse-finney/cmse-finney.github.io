@@ -16,21 +16,21 @@ title: People
 </div>
 
 
-## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher (2026–)</span>
+## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span>
 Short description of project and bio
 
-## Shaurya Aneja <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher (2026–)</span>
+## Shaurya Aneja <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span>
 Short description of project and bio
 
-## Varnit Jain <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher (2025–)</span>
+## Varnit Jain <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2025– </span>
 Short description of project and bio
 
 ## Project Students
-Ileen Sami (2026-2027)
+Ileen Sami | 2026-2027 
 
 # Alumni
-Joud Dhafer BEng (2025-2026) <br>
-Abdulrahman Al-Sahli BEng (2025-2026) <br>
-Alireza Azizian MSc (2024) <br>
-Abby Balasubramaniyan MSc (2024) <br>
+Joud Dhafer BEng | 2025-2026 <br>
+Abdulrahman Al-Sahli BEng | 2025-2026 <br>
+Alireza Azizian MSc | 2024 <br>
+Abby Balasubramaniyan MSc | 2024 <br>
 
