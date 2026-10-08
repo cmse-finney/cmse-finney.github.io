@@ -3,7 +3,7 @@ layout: page
 title: People
 ---
 
-<img src="images/profile-bw-pad.png" alt="Dr Aaron Finney"
+<img src="images/aaron.png" alt="Dr Aaron Finney"
      style="float:right; width:160px; margin:0 0 1em 1.5em; border-radius:8px;">
 
 ## Aaron Finney, Principal Investigator <br>
