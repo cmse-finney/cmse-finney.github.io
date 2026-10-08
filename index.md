@@ -17,10 +17,11 @@ We use molecular and coarse-grained particle dynamics simulations to understand 
 • [**Read about our research**](research.md) • [**Meet the group**](people.md) • [**Get in touch**](contact.md)
 
 
-### Collaborate
+
+## Collaborate
 
 We are always open to new collaborations and to discuss how computational modelling and AI tools can help t accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [get in touch](contact.md) to start the conversation.
 
-### Join us
+## Join us
 
 We welcome enquiries about Fellowship applications and PhD projects. Please [get in touch](contact.md).
