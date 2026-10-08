@@ -1,0 +1,106 @@
+{% if site.data.highlights %}
+<div class="hl-carousel" id="highlights" aria-roledescription="carousel" aria-label="Research highlights">
+  <div class="hl-viewport">
+    {% for s in site.data.highlights %}
+    <figure class="hl-slide{% if forloop.first %} is-active{% endif %}" aria-hidden="{% if forloop.first %}false{% else %}true{% endif %}">
+      <img src="{{ s.image | relative_url }}" alt="{{ s.alt | default: s.title | default: 'Research highlight' }}">
+      {% if s.title or s.caption %}
+      <figcaption>
+        {% if s.title %}<strong>{{ s.title }}</strong>{% endif %}
+        {% if s.caption %}<span>{{ s.caption }}</span>{% endif %}
+        {% if s.link %}<a href="{{ s.link | relative_url }}">Read more →</a>{% endif %}
+      </figcaption>
+      {% endif %}
+    </figure>
+    {% endfor %}
+    <button class="hl-arrow hl-prev" aria-label="Previous slide">&#8249;</button>
+    <button class="hl-arrow hl-next" aria-label="Next slide">&#8250;</button>
+  </div>
+  <div class="hl-dots"></div>
+</div>
+
+<style>
+.hl-carousel { margin: 1em 0 2em; }
+.hl-viewport { position: relative; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 8px; background: #1e2329; }
+.hl-slide { position: absolute; inset: 0; margin: 0; opacity: 0; transition: opacity 0.8s ease; }
+.hl-slide.is-active { opacity: 1; z-index: 1; }
+.hl-slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hl-slide figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: 2.5em 1.2em 1em; color: #fff;
+  background: linear-gradient(transparent, rgba(0,0,0,0.78)); font-size: 0.95em; line-height: 1.4; }
+.hl-slide figcaption strong { display: block; font-size: 1.15em; margin-bottom: 0.2em; }
+.hl-slide figcaption a { color: #fff; text-decoration: underline; margin-left: 0.4em; white-space: nowrap; }
+.hl-arrow { position: absolute; top: 50%; transform: translateY(-50%); z-index: 2; width: 2.2em; height: 2.2em;
+  border: none; border-radius: 50%; background: rgba(0,0,0,0.4); color: #fff; font-size: 1.5em; line-height: 1;
+  cursor: pointer; padding: 0; }
+.hl-arrow:hover, .hl-arrow:focus-visible { background: rgba(0,0,0,0.7); }
+.hl-prev { left: 0.5em; }
+.hl-next { right: 0.5em; }
+.hl-dots { text-align: center; margin-top: 0.7em; }
+.hl-dot { width: 10px; height: 10px; margin: 0 5px; padding: 0; border: none; border-radius: 50%;
+  background: #c9c9c9; cursor: pointer; transition: background 0.3s; }
+.hl-dot.is-active { background: #2a8fa8; }
+@media (max-width: 600px) {
+  .hl-slide figcaption { font-size: 0.8em; padding: 1.8em 0.8em 0.7em; }
+  .hl-arrow { font-size: 1.2em; }
+}
+</style>
+
+<script>
+(function () {
+  var root = document.getElementById('highlights');
+  if (!root) return;
+  var slides = root.querySelectorAll('.hl-slide');
+  var n = slides.length;
+  var dotsBox = root.querySelector('.hl-dots');
+  var prev = root.querySelector('.hl-prev');
+  var next = root.querySelector('.hl-next');
+  var current = 0, timer = null, DELAY = 6000;
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var dots = [];
+
+  if (n < 2) { prev.style.display = 'none'; next.style.display = 'none'; return; }
+
+  for (var k = 0; k < n; k++) {
+    var d = document.createElement('button');
+    d.className = 'hl-dot' + (k === 0 ? ' is-active' : '');
+    d.setAttribute('aria-label', 'Go to slide ' + (k + 1));
+    d.addEventListener('click', (function (idx) { return function () { go(idx); start(); }; })(k));
+    dotsBox.appendChild(d);
+    dots.push(d);
+  }
+
+  function go(idx) {
+    slides[current].classList.remove('is-active');
+    slides[current].setAttribute('aria-hidden', 'true');
+    dots[current].classList.remove('is-active');
+    current = (idx + n) % n;
+    slides[current].classList.add('is-active');
+    slides[current].setAttribute('aria-hidden', 'false');
+    dots[current].classList.add('is-active');
+  }
+  function stop() { if (timer) { clearInterval(timer); timer = null; } }
+  function start() { stop(); if (!reduceMotion) timer = setInterval(function () { go(current + 1); }, DELAY); }
+
+  prev.addEventListener('click', function () { go(current - 1); start(); });
+  next.addEventListener('click', function () { go(current + 1); start(); });
+
+  root.addEventListener('mouseenter', stop);
+  root.addEventListener('mouseleave', start);
+  root.addEventListener('focusin', stop);
+  root.addEventListener('focusout', start);
+  document.addEventListener('visibilitychange', function () { document.hidden ? stop() : start(); });
+
+  var touchX = null;
+  root.addEventListener('touchstart', function (e) { touchX = e.touches[0].clientX; stop(); }, { passive: true });
+  root.addEventListener('touchend', function (e) {
+    if (touchX === null) return;
+    var dx = e.changedTouches[0].clientX - touchX;
+    if (Math.abs(dx) > 40) go(current + (dx < 0 ? 1 : -1));
+    touchX = null;
+    start();
+  });
+
+  start();
+})();
+</script>
+{% endif %}
