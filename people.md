@@ -30,12 +30,12 @@ Short description of project and bio
 Short description of project and bio
 
 ## Project Students
-Ileen Sami | 2026-2027 
+**Ileen Sami** | 2026-2027 
 
 # Alumni
-Joud Dhafer BEng | 2025-2026 <br>
-Abdulrahman Al-Sahli BEng | 2025-2026 <br>
-Alireza Azizian MSc | 2024 <br>
-Abby Balasubramaniyan MSc | 2024 <br>
+**Joud Dhafer** BEng | 2025-2026 <br>
+**Abdulrahman Al-Sahli** BEng | 2025-2026 <br>
+**Alireza Azizian** MSc | 2024 <br>
+**Abby Balasubramaniyan** MSc | 2024 <br>
 
 
