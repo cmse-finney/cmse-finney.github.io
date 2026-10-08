@@ -1,0 +1,12 @@
+title: Computational Materials Science and Engineering
+description: >-
+  The CMSE group at the University of Liverpool uses molecular and
+  coarse-grained simulation to understand how materials assemble.
+theme: minima
+
+# Pages shown in the top navigation bar, in this order
+header_pages:
+  - research.md
+  - people.md
+  - publications.md
+  - contact.md
