@@ -18,15 +18,22 @@ Welcome to the **Computational Materials Science and Engineering (CMSE)** group,
 
 We use molecular and coarse-grained particle dynamics simulations to understand how materials form and how they interact with their environments. Our work covers self- and directed-assembly, nucleation and crystallisation, solid–liquid interfaces and formulation science. The goal is to understand material assembly well enough to design functional, sustainable materials from the bottom up.
 
-• [**Read about our research**](research.md) • [**Meet the group**](people.md) • [**Get in touch**](contact.md)
+- [**Read about our research**](research.md) &emsp;•&emsp; [**Meet the group**](people.md) &emsp;•&emsp; [**Get in touch**](contact.md)
+
+<div style="height:2em;"></div>
 
 ***
+
+<div style="height:2em;"></div>
 
 ## Research Highlights
 
 Our latest publications are listed on [**Google Scholar**](https://scholar.google.com/citations?user=zHvnvwsAAAAJ). We share simulation code, input files and analysis tools openly on [**GitHub**](https://github.com/cmse-finney).
 
+<div style="height:2em;"></div>
+
 ***
+<div style="height:2em;"></div>
 
 ## Collaborate
 
