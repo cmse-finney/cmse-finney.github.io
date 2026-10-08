@@ -5,7 +5,7 @@ title: People
 
 
 
-## Aaron Finney, Principal Investigator
+## Aaron Finney, <span style="font-size:0.7em; font-weight:normal; color:#666;">Principal Investigator</span>
 
 <div style="display:flex; gap:1.5em; align-items:flex-start;">
   <div style="flex:1;">
@@ -16,13 +16,13 @@ title: People
 </div>
 
 
-## Xavier Sottrel, PhD candidate (2026–) <br>
+## Xavier Sottrel, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
 Short description of project and bio
 
-## Shaurya Aneja, PhD candidate (2026–) <br>
+## Shaurya Aneja, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2026–)</span>
 Short description of project and bio
 
-## Varnit Jain, PhD candidate (2025–) <br>
+## Varnit Jain, <span style="font-size:0.7em; font-weight:normal; color:#666;">PhD candidate (2025–)</span>
 Short description of project and bio
 
 
