@@ -16,7 +16,8 @@ title: People
 </div>
 
 
-## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span>
+<!-- ## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span> -->
+## Xavier Sottrel <span style="font-size:0.5em; font-weight:600; color:#fff; background:#2a8fa8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">Doctoral Researcher</span> <span style="font-size:0.5em; font-weight:600; color:#555; background:#e8e8e8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">2026–</span>
 Short description of project and bio
 
 ## Shaurya Aneja <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span>
