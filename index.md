@@ -30,7 +30,7 @@ Our latest publications are listed on [**Google Scholar**](https://scholar.googl
 
 ## Collaborate
 
-We are always open to new collaborations and to discuss how computational modelling and AI tools can help t accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [get in touch](contact.md) to start the conversation.
+We are always open to new collaborations and to discuss how computational modelling and AI tools can help to accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [get in touch](contact.md) to start the conversation.
 
 ## Join us
 
