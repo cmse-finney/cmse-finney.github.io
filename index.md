@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <p style="background:#fff4e0; border-left:4px solid #e8a33d; padding:0.6em 1em; font-size:0.9em;">
 <strong>Beta version:</strong> this site is new and still being developed, so some pages may be incomplete.
@@ -18,7 +19,15 @@ Welcome to the **Computational Materials Science and Engineering** group, part o
 
 We use molecular and coarse-grained particle dynamics simulations to understand how materials form and how they interact with their environments. Our work covers self- and directed-assembly, nucleation and crystallisation, solid–liquid interfaces and formulation science. The goal is to understand material assembly well enough to design functional, sustainable materials from the bottom up.
 
-• [**Read about our research**](research.md) &emsp; &emsp;• [**Meet the group**](people.md) &emsp; &emsp;• [**Get in touch**](contact.md)
+[<i class="fa-solid fa-atom"></i> **Read about our research**](research.md) &emsp;&emsp; [<i class="fa-solid fa-users"></i> **Meet the group**](people.md) &emsp;&emsp; [<i class="fa-solid fa-envelope"></i> **Get in touch**](contact.md)
+
+## Collaborate
+
+We are always open to new collaborations and to discuss how computational modelling and AI tools can help to accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [contact us](contact.md) to start the conversation.
+
+## Join us
+
+We welcome enquiries about Fellowship applications and PhD projects. Please [get in touch](contact.md).
 
 <div style="height:2em;"></div>
 
@@ -35,10 +44,4 @@ We use molecular and coarse-grained particle dynamics simulations to understand 
 ***
 <div style="height:2em;"></div>
 
-## Collaborate
 
-We are always open to new collaborations and to discuss how computational modelling and AI tools can help to accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [contact us](contact.md) to start the conversation.
-
-## Join us
-
-We welcome enquiries about Fellowship applications and PhD projects. Please [get in touch](contact.md).
