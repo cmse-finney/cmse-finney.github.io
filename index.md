@@ -37,7 +37,7 @@ We use molecular and coarse-grained particle dynamics simulations to understand 
 
 ## Collaborate
 
-We are always open to new collaborations and to discuss how computational modelling and AI tools can help to accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [get in touch](contact.md) to start the conversation.
+We are always open to new collaborations and to discuss how computational modelling and AI tools can help to accelerate materials discovery, product and processing design. Our tools are applicable to a wide range of systems. Please [contact us](contact.md) to start the conversation.
 
 ## Join us
 
