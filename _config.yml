@@ -8,3 +8,6 @@ header_pages:
   - research.md
   - people.md
   - contact.md
+
+  url: https://cmse-finney.github.io
+image: /images/web-banner.png
