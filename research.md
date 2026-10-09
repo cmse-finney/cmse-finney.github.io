@@ -5,8 +5,6 @@ title: Research
 
 Our research sits at the junction of chemistry, physics and engineering. We use simulations to study materials from atomic to meso-scales, and combine them with data-science tools to understand how materials form and how their structure gives rise to their properties and performance. This lets us guide materials design and optimise processing. Our methods are not tied to any one class of material and we work across crystals, soft matter, interfaces and formulations. You can read about our current projects below.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 Our latest publications are listed on <a href="https://scholar.google.com/citations?user=zHvnvwsAAAAJ" style="white-space:nowrap;"><i class="fa-brands fa-google-scholar"></i> <strong>Google Scholar</strong></a>. We share simulation code, input files and analysis tools openly on <a href="https://github.com/cmse-finney" style="white-space:nowrap;"><i class="fa-brands fa-github"></i> <strong>GitHub</strong></a>.
 
 ## Nucleation and Crystallisation
