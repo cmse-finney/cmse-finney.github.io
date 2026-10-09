@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 <p style="background:#fff4e0; border-left:4px solid #e8a33d; padding:0.6em 1em; font-size:0.9em;">
 <strong>Beta version:</strong> this site is new and still being developed, so some pages may be incomplete.
 </p>
