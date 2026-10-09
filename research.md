@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Our research sits at the junction of chemistry, physics and engineering. We use simulations to study materials down to the atomic scale, and combine them with data-science tools to understand how materials form and how their structure gives rise to their properties and performance. This lets us guide materials design and optimise processing. Our methods are not tied to any one class of material and we work across crystals, soft matter, interfaces and formulations. You can read about our current projects below.
+Our research sits at the junction of chemistry, physics and engineering. We use simulations to study materials from atomic to meso-scales, and combine them with data-science tools to understand how materials form and how their structure gives rise to their properties and performance. This lets us guide materials design and optimise processing. Our methods are not tied to any one class of material and we work across crystals, soft matter, interfaces and formulations. You can read about our current projects below.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
