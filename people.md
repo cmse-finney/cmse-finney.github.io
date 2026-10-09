@@ -3,8 +3,6 @@ layout: page
 title: People
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 <!-- ## Aaron Finney <span style="font-size:0.7em; font-weight:normal; color:#666;">Principal Investigator</span> -->
 ## Aaron Finney <span style="font-size:0.5em; font-weight:600; color:#fff; background:#2a8fa8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">Principal Investigator</span>
 
