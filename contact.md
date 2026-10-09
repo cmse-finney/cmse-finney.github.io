@@ -4,7 +4,6 @@ title: Contact
 ---
 
 **Dr Aaron Finney**
-
 School of Engineering, <br>
 The Quadrangle,  <br>
 University of Liverpool, <br>
