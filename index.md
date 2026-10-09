@@ -28,8 +28,6 @@ We use molecular and coarse-grained particle dynamics simulations to understand 
 
 ## Group Highlights
 
-Our latest publications are listed on [**Google Scholar**](https://scholar.google.com/citations?user=zHvnvwsAAAAJ). We share simulation code, input files and analysis tools openly on [**GitHub**](https://github.com/cmse-finney).
-
 {% include carousel.html %}
 
 <div style="height:2em;"></div>
