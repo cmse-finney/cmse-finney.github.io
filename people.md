@@ -10,7 +10,10 @@ title: People
 
 <img src="images/aaron.png" alt="Dr Aaron Finney" align="right" width="160" style="margin:0.3em 0 1em 1.5em; border-radius:8px;">Aaron is a Lecturer in Materials Science in the School of Engineering. He completed his PhD in Chemistry and Scientific Computing at the University of Warwick. From 2016 to 2019 he was an EPSRC Doctoral Prize Fellow and then Research Associate in Materials Science and Engineering at the University of Sheffield. Before moving to Liverpool in 2023, Aaron was a Senior Research Fellow in Chemical Engineering at University College London.
 
-[<i class="fa-solid fa-building-columns"></i>&nbsp;**University&nbsp;profile**](https://www.liverpool.ac.uk/people/aaron-finney) • [<i class="fa-brands fa-google-scholar"></i>&nbsp;**Google&nbsp;Scholar**](https://scholar.google.com/citations?user=zHvnvwsAAAAJ) • [<i class="fa-brands fa-orcid"></i>&nbsp;**ORCID**](https://orcid.org/0000-0002-1456-5892) • [<i class="fa-brands fa-linkedin"></i>&nbsp;**LinkedIn**](https://www.linkedin.com/in/aaron-finney-6410873a4/)
+<a href="https://www.liverpool.ac.uk/people/aaron-finney" style="white-space:nowrap;"><i class="fa-solid fa-building-columns"></i> <strong>University profile</strong></a> •
+<a href="https://scholar.google.com/citations?user=zHvnvwsAAAAJ" style="white-space:nowrap;"><i class="fa-brands fa-google-scholar"></i> <strong>Google Scholar</strong></a> •
+<a href="https://orcid.org/0000-0002-1456-5892" style="white-space:nowrap;"><i class="fa-brands fa-orcid"></i> <strong>ORCID</strong></a> •
+<a href="https://www.linkedin.com/in/aaron-finney-6410873a4/" style="white-space:nowrap;"><i class="fa-brands fa-linkedin"></i> <strong>LinkedIn</strong></a>
 
 <br clear="right">
 
