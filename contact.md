@@ -3,12 +3,14 @@ layout: page
 title: Contact
 ---
 
-**Dr Aaron Finney** <br>
+<img src="images/cmse-round-bold.png" alt="CMSE group logo" align="right" width="130" style="margin:0 0 1em 1.5em;">**Dr Aaron Finney** <br>
 School of Engineering, <br>
-The Quadrangle,  <br>
+The Quadrangle, <br>
 University of Liverpool, <br>
-Liverpool L69 3GH  <br>
-United Kingdom.  <br>
+Liverpool L69 3GH <br>
+United Kingdom.
+
+<br clear="right">
 
 <form action="https://formspree.io/f/xgaokgrj" method="POST" class="contact-form">
   <label>Name
