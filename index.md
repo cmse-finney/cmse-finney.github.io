@@ -19,7 +19,9 @@ Welcome to the **Computational Materials Science and Engineering** group, part o
 
 We use molecular and coarse-grained particle dynamics simulations to understand how materials form and how they interact with their environments. Our work covers self- and directed-assembly, nucleation and crystallisation, solid–liquid interfaces and formulation science. The goal is to understand material assembly well enough to design functional, sustainable materials from the bottom up.
 
-[<i class="fa-solid fa-atom"></i>&nbsp;**Read&nbsp;about&nbsp;our&nbsp;research**](research.md) &emsp; [<i class="fa-solid fa-users"></i>&nbsp;**Meet&nbsp;the&nbsp;group**](people.md) &emsp; [<i class="fa-solid fa-envelope"></i>&nbsp;**Get&nbsp;in&nbsp;touch**](contact.md)
+<a href="research.html" style="white-space:nowrap;"><i class="fa-solid fa-atom"></i> <strong>Read about our research</strong></a> &emsp;&emsp;
+<a href="people.html" style="white-space:nowrap;"><i class="fa-solid fa-users"></i> <strong>Meet the group</strong></a> &emsp;&emsp;
+<a href="contact.html" style="white-space:nowrap;"><i class="fa-solid fa-envelope"></i> <strong>Get in touch</strong></a>
 
 ## Collaborate
 
