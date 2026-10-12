@@ -26,7 +26,11 @@ Short description of project and bio
 
 <!--## Varnit Jain <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2025– </span> -->
 ## Varnit Jain <span style="font-size:0.5em; font-weight:600; color:#fff; background:#2a8fa8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">Doctoral Researcher</span> <span style="font-size:0.5em; font-weight:600; color:#555; background:#e8e8e8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">2025–</span>
-Short description of project and bio
+<img src="images/varnit.png" alt="Dr Aaron Finney" align="right" width="160" style="margin:0.3em 0 1em 1.5em; border-radius:8px;">Varnit uses molecular dynamics simulations with classical and machine-learned potentials to understand the dynamic behaviour of complex electrolytes for next-generation batteries. He explores how the vast composition space of these electrolytes gives rise to different molecular assemblies, how these affect transport properties, and how they shape the chemistry at the anode–electrolyte interface. Varnit holds a BTech in Metallurgy and Materials Engineering from IIEST Shibpur, and was awarded a MITACS Globalink Research Internship at the University of Calgary.
+
+<a href="https://www.liverpool.ac.uk/doctoral-training/digital-and-automated-materials-chemistry/research-community/student-profiles/cohort-1/varnit/" style="white-space:nowrap;"><i class="fa-solid fa-building-columns"></i> <strong>University profile</strong></a> •
+<a href="https://scholar.google.com/citations?user=cWOaLtMAAAAJ" style="white-space:nowrap;"><i class="fa-brands fa-google-scholar"></i> <strong>Google Scholar</strong></a> •
+<a href="LINKEDIN-URL-HERE" style="white-space:nowrap;"><i class="fa-brands fa-linkedin"></i> <strong>LinkedIn</strong></a>
 
 ## Project Students
 **Ileen Sami** | 2026-2027 
