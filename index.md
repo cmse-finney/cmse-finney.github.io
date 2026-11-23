@@ -1,9 +1,6 @@
 ---
 layout: home
 ---
-<p style="background:#fff4e0; border-left:4px solid #e8a33d; padding:0.6em 1em; font-size:0.9em;">
-<strong>Beta version:</strong> this site is new and still being developed, so some pages may be incomplete.
-</p>
 
 <!-- To add an image: upload it to the images folder -->
 ![Group banner](images/web-banner.png)
