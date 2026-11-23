@@ -19,6 +19,9 @@ Nucleation is the first step when a new phase, such as a crystal, appears from s
 
 Molecules and nanoparticles can organise spontaneously into complex structures, and external cues such as templates, fields and patterned surfaces can guide that process. We study the principles of self and directed assembly to identify design rules for making functional materials through low-temperature, bottom-up routes.
 
+<p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
+<i class="fa-solid fa-flask"></i>&ensp;Current projects include coarse-grained simulations of polymer gels and lamellar phases in formulated products.
+</p>
 
 ![Assembly](images/ass.png)
 
@@ -34,4 +37,8 @@ Interfaces between solids and liquids host much of the important physics and che
 ## Formulation Simulation and Design
 
 Formulated products such as detergents, personal care products, lubricants and battery electrolytes are complex mixtures. How well they perform depends on how their components organise across many length scales. We use molecular and coarse-grained simulations to connect formulation chemistry to microstructure and to bulk performance. This shows how the choice of components and their concentrations control self-assembly, solute association and the thermodynamics of non-ideal solutions. We also combine these physics-based simulations with data science and machine learning, so that we can move beyond explaining formulations towards designing them "right first time", predicting performance before the first experiment.
+<p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
+<i class="fa-solid fa-flask"></i>&ensp;Current projects include combining enhanced sampling with Bayesian methods.
+</p>
+
 <img src="images/fd.svg" alt="Formulation" style="width:100%;">
