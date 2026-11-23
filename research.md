@@ -41,4 +41,4 @@ Formulated products such as detergents, personal care products, lubricants and b
 <i class="fa-solid fa-flask"></i>&ensp;Current projects include combining enhanced sampling with Bayesian methods.
 </p>
 
-<img src="images/fd.svg" alt="Formulation" style="width:100%;">
+<img src="images/fd.png" alt="Formulation" style="width:100%;">
