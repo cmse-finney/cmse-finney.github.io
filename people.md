@@ -18,7 +18,7 @@ title: People
 
 <!-- ## Xavier Sottrel <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span> -->
 ## Xavier Sottrel <span style="font-size:0.5em; font-weight:600; color:#fff; background:#2a8fa8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">Doctoral Researcher</span> <span style="font-size:0.5em; font-weight:600; color:#555; background:#e8e8e8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">2026–</span>
-Short description of project and bio
+<img src="images/xavier.png" alt="Dr Aaron Finney" align="right" width="160" style="margin:0.3em 0 1em 1.5em; border-radius:8px;">Xavier combines Bayesian optimisation with molecular dynamics to guide sustainable formulation design, in a collaboration with Unilever. Using enhanced-sampling simulations, Xavier works out how strongly formulation ingredients bind to surfaces using free energy calculations. These binding free energies then inform a search through the large space of possible ingredients. The aim is to find greener ingredients that perform as well as current ones, using far fewer costly experiments. Xavier holds an undergraduate degree from the University of Liverpool, specialising in computational chemistry.
 
 <!--## Shaurya Aneja <span style="font-size:0.7em; font-weight:normal; color:#666;">Doctoral Researcher | 2026– </span> -->
 ## Shaurya Aneja <span style="font-size:0.5em; font-weight:600; color:#fff; background:#2a8fa8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">Doctoral Researcher</span> <span style="font-size:0.5em; font-weight:600; color:#555; background:#e8e8e8; padding:0.25em 0.7em; border-radius:999px; vertical-align:middle;">2026–</span>
