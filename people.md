@@ -38,8 +38,8 @@ title: People
 <a href="LINKEDIN-URL-HERE" style="white-space:nowrap;"><i class="fa-brands fa-linkedin"></i> <strong>LinkedIn</strong></a>
 
 ## Project Students
-**Ileen Sami** | 2026-2027 
-**Cal McMullan** | 2026-2027
+**Ileen Sami** | 2026-2027 <br>
+**Cal McMullan** | 2026-2027 <br>
 
 # Alumni
 **Samuel Ike** MSc | 2025-2026 <br>
