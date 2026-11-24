@@ -32,7 +32,7 @@ Interfaces between solids and liquids host much of the important physics and che
 <i class="fa-solid fa-book-open"></i>&ensp;Read our <a href="https://pubs.rsc.org/sc/article-abstract/12/33/11166/746236" style="white-space:nowrap;"><strong>Chemical Science paper</strong></a> on electrolytes at charged interfaces.
 </p>
 
-<img src="images/int.png" alt="Charge storage at graphite" style="width:70%; display:block; margin:0 auto;">
+<img src="images/int.png" alt="Charge storage at graphite" style="width:80%; display:block; margin:0 auto;">
 
 
 ## Formulation Simulation and Design
