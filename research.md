@@ -13,7 +13,7 @@ Nucleation is the first step when a new phase, such as a crystal, appears from s
 <p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
 <i class="fa-solid fa-book-open"></i>&ensp;Read our <a href="https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1697" style="white-space:nowrap;"><strong>review on simulating nucleation</strong></a> and our <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1700342114" style="white-space:nowrap;"><strong>PNAS paper on nucleation</strong></a>.
 </p>
-![Nucleation pathways](images/nucln.png)
+<img src="images/nucln.png" alt="Nucleating cluster coloured from liquid-like to crystal-like" style="width:60%; display:block; margin:0 auto;">
 
 ## Self and Directed Assembly
 
@@ -22,17 +22,18 @@ Molecules and nanoparticles can organise spontaneously into complex structures, 
 <p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
 <i class="fa-solid fa-flask"></i>&ensp;Current projects include coarse-grained simulations of polymer gels and lamellar phases in formulated products.
 </p>
+<img src="images/ass.png" alt="Templated assembly" style="width:60%; display:block; margin:0 auto;">
 
-![Assembly](images/ass.png)
 
 ## Solid–Liquid Interfaces
 
 Interfaces between solids and liquids host much of the important physics and chemistry in catalysis, separations and energy storage. We study charged surfaces, such as graphite and graphene, in contact with electrolytes. Using constant chemical potential molecular dynamics, we quantify how surfaces change interfacial structure, mobility and solution thermodynamics.
 <p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
-<i class="fa-solid fa-book-open"></i>&ensp;Read our <a href="https://pubs.rsc.org/sc/article-abstract/12/33/11166/746236" style="white-space:nowrap;"><strong>Chemical Science paper on electrolytes at charged interfaces</strong></a>.
+<i class="fa-solid fa-book-open"></i>&ensp;Read our <a href="https://pubs.rsc.org/sc/article-abstract/12/33/11166/746236" style="white-space:nowrap;"><strong>Chemical Science paper</strong></a> on electrolytes at charged interfaces.
 </p>
 
-![Interfaces](images/int.png)
+<img src="images/int.png" alt="Charge storage at graphite" style="width:70%; display:block; margin:0 auto;">
+
 
 ## Formulation Simulation and Design
 
