@@ -13,7 +13,7 @@ Nucleation is the first step when a new phase, such as a crystal, appears from s
 <p style="background:#eef6f8; border-left:4px solid #2a8fa8; padding:0.6em 1em; font-size:0.95em;">
 <i class="fa-solid fa-book-open"></i>&ensp;Read our <a href="https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1697" style="white-space:nowrap;"><strong>review on simulating nucleation</strong></a> and our <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1700342114" style="white-space:nowrap;"><strong>PNAS paper on nucleation</strong></a>.
 </p>
-<img src="images/nucln.png" alt="Nucleating cluster coloured from liquid-like to crystal-like" style="width:60%; display:block; margin:0 auto;">
+<img src="images/nucln.png" alt="Nucleating cluster coloured from liquid-like to crystal-like" style="width:70%; display:block; margin:0 auto;">
 
 ## Self and Directed Assembly
 
