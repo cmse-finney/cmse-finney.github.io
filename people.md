@@ -35,7 +35,7 @@ title: People
 
 <a href="https://www.liverpool.ac.uk/doctoral-training/digital-and-automated-materials-chemistry/research-community/student-profiles/cohort-1/varnit/" style="white-space:nowrap;"><i class="fa-solid fa-building-columns"></i> <strong>University profile</strong></a> •
 <a href="https://scholar.google.com/citations?user=cWOaLtMAAAAJ" style="white-space:nowrap;"><i class="fa-brands fa-google-scholar"></i> <strong>Google Scholar</strong></a> •
-<a href="LINKEDIN-URL-HERE" style="white-space:nowrap;"><i class="fa-brands fa-linkedin"></i> <strong>LinkedIn</strong></a>
+<a href="https://www.linkedin.com/in/varnit-jain-018/" style="white-space:nowrap;"><i class="fa-brands fa-linkedin"></i> <strong>LinkedIn</strong></a>
 
 ## Project Students
 **Ileen Sami** | 2026-2027 <br>
